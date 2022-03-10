@@ -4,7 +4,7 @@ I'm someone who is committed to the goal of pursuit of life-long learning and ga
 
 Skills: POWER-BI/ DATA ANALYTICS / REACT / JS / HTML / CSS
 
-- 👯 I’m looking to collaborate on Data Visualization Projects 
+- 👯 I’m looking to collaborate on Data Visualization,Product Management and Frontend technology related Projects 
 - 📫 How to reach me: ananthuajay5@gmail.com 
 - 😄 Pronouns: He/Him 
 
