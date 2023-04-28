@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ananthu Ajay
-#### A Final Year Engineering Undergrad Student majoring in IT
+#### Currently, A Full Stack Developer @ UST
 I'm someone who is committed to the goal of pursuit of life-long learning and gain experience in the field of Data Analytics and  Frontend technologies
 
 Skills: POWER-BI/ DATA ANALYTICS / REACT / JS / HTML / CSS
